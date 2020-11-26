@@ -1,2 +1,1 @@
-# baiyangxie.github.io
-个人网站
+# bb.github.io
